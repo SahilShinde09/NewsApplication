@@ -1,0 +1,26 @@
+import React, { Component } from 'react'
+import News from './News'
+
+export class NewsItem extends Component {
+  render() {
+    let {title, description, imageUrl, newsUrl} = this.props;
+    return (
+      <div className="my-3">
+        <div className="card" style={{width: "18rem"}}>
+          <img src={!imageUrl?"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202405/realme-12-pro-30060295-16x9.png?VersionId=ubb0BGlcQrc4M36ZesFX.uzISKLFfub6":imageUrl} className="card-img-top" alt="..."/>
+          <div className="card-body">
+            <h5 className="card-title">{title}</h5>
+            <p className="card-text">
+              {description}
+            </p>
+            <a rel='noreferrer' href={newsUrl} target='blank' className="btn btn-sm btn-primary">
+              Read more
+            </a>
+          </div>
+        </div>
+      </div>
+    );
+  }
+}
+
+export default NewsItem;

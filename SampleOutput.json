@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+        {
+            "source": {
+                "id": "news-com-au",
+                "name": "News.com.au"
+            },
+            "author": null,
+            "title": "‘Sad joke’: Chaos rocks Aussie football fans",
+            "description": "Western Australian football fans have been rocked after train chaos in Perth left thousands of fans stranded ahead of a friendly between AC Milan and AS Roma at Optus Stadium.",
+            "url": "https://www.news.com.au/sport/football/a-sad-joke-perth-football-fans-rocked-by-train-chaos-before-ac-milanroma-friendly/news-story/50665d021c1931488f30493b3f7360cf",
+            "urlToImage": "https://content.api.news/v3/images/bin/632d01bd90fca7aeec0288f4d7226b16",
+            "publishedAt": "2024-05-31T11:41:00Z",
+            "content": "Western Australian football fans have been rocked after train chaos in Perth left thousands of fans stranded ahead of a friendly between AC Milan and AS Roma at Optus Stadium.\r\nMore than 50,000 fans … [+2231 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "Latest football news, plus Champions League final and women's Euros qualifiers build-up",
+            "description": "Latest football news, with Enzo Maresca set to be confirmed as Chelsea boss, plus build-up to the Champions League final and women's Euros qualifiers.",
+            "url": "http://www.bbc.co.uk/sport/football/live/c3gg4v33j20t",
+            "urlToImage": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/sport/images/metadata/poster-1024x576.png",
+            "publishedAt": "2024-05-31T07:07:11.220683Z",
+            "content": "BBC News\r\nIpswich fan Andy Cumbers, 47, recently got a tattoo of BBC Radio Suffolk's commentary of Jeremy Sarmiento's winning goal against Southampton on Easter Monday.\r\nOn Kieran McKenna's new contr… [+1141 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "Players could strike if Fifa fails to listen to them - PFA chief",
+            "description": "Football's world governing body Fifa is warned players are willing to go on strike if they continue to be overworked.",
+            "url": "http://www.bbc.co.uk/sport/football/articles/c2jjmn7ex4vo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/d135/live/053fd8d0-1ebc-11ef-bdc9-65b4bfc01778.jpg",
+            "publishedAt": "2024-05-30T21:22:20.4235761Z",
+            "content": "Football's world governing body Fifa has been warned players are willing to go on strike if they continue to be overworked.\r\nProfessional Footballers Association chief executive Maheta Molango believ… [+3783 chars]"
+        },
+        {
+            "source": {
+                "id": "four-four-two",
+                "name": "FourFourTwo"
+            },
+            "author": "Joe Mewis",
+            "title": "REVEALED: The most valuable players in the world",
+            "description": "The CIES Football Observatory has worked out transfer values for the top 100 players in world football",
+            "url": "https://www.fourfourtwo.com/news/revealed-the-most-valuable-players-in-the-world",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/GAxFTVarGaA6aZS7G3AXEK-1200-80.png",
+            "publishedAt": "2024-05-30T13:00:00Z",
+            "content": "England and Real Madrid star Jude Bellingham has the highest transfer value in world football, according to a new study. \r\nThe 20-year-old has enjoyed a sensational first season at the Bernabeu follo… [+14982 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": null,
+            "title": "National Football League\n     <!----> \n        Five potential Cowboys picks to track at the NFL Draft Combine\n       \n      1 hour ago",
+            "description": null,
+            "url": "http://www.foxsports.com/stories/nfl/five-potential-cowboys-picks-to-track-at-the-nfl-draft-combine",
+            "urlToImage": null,
+            "publishedAt": "2024-02-29T18:37:22.5746516Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "David Kenyon",
+            "title": "Unique Stats from the 2023 College Football Regular Season",
+            "description": "Numbers are an integral part of college football. Whether you're previewing games, ranking teams or picking an award winner, statistics help shape the story.…",
+            "url": "https://bleacherreport.com/articles/10100739-unique-stats-from-the-2023-college-football-regular-season",
+            "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1702319871/sdx1wjlqkcqz3anqfabp.jpg",
+            "publishedAt": "2023-12-12T12:00:00Z",
+            "content": "Zach Bolinger/Icon Sportswire via Getty Images\r\nSpeaking of Iowa...\r\nWhat makes the Hawkeyes' stellar defensive season even more impressive is how much the team desperately needed it.\r\nAmong the many… [+711 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+            "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+            "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+            "publishedAt": "2020-04-27T07:20:43Z",
+            "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+        }
+    ]
+}
